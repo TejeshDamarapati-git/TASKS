@@ -1,0 +1,12 @@
+10:41:46.648 [main] FATAL com.mayuratech.api.logging.Log4JDemo - Unexpected Exception
+10:41:46.653 [main] ERROR com.mayuratech.api.logging.Log4JDemo - DB Connection failed
+10:42:13.218 [main] FATAL com.mayuratech.api.logging.Log4JDemo - Unexpected Exception
+10:42:13.223 [main] ERROR com.mayuratech.api.logging.Log4JDemo - DB Connection failed
+10:43:41.412 [main] FATAL com.mayuratech.api.logging.Log4JDemo - Unexpected Exception
+10:43:41.417 [main] ERROR com.mayuratech.api.logging.Log4JDemo - DB Connection failed
+10:45:16.502 [main] FATAL com.mayuratech.api.logging.Log4JDemo - Unexpected Exception
+10:45:16.507 [main] ERROR com.mayuratech.api.logging.Log4JDemo - DB Connection failed
+10:47:32.789 [main] TRACE com.mayuratech.api.logging.Log4JDemo - Program Running
+10:47:32.794 [main] INFO  com.mayuratech.api.logging.Log4JDemo - Build Successfull
+10:47:32.794 [main] FATAL com.mayuratech.api.logging.Log4JDemo - Unexpected Exception
+10:47:32.794 [main] ERROR com.mayuratech.api.logging.Log4JDemo - DB Connection failed
