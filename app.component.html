@@ -1,0 +1,21 @@
+<h1>{{title}}</h1>
+
+    <table>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Age</th>
+          <th>Designation</th>
+          <th>Address</th>
+        </tr>
+        <tr *ngFor="let employee of employees">
+            <td>{{ employee.id }}</td>
+            <td>{{ employee.name }}</td>
+            <td>{{ employee.age }}</td>
+            <td>{{ employee.designation }}</td>
+            <td>{{ employee.address }}</td>
+          </tr>
+</table>
+      
+<app-employee></app-employee>
+
